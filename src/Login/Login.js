@@ -15,6 +15,7 @@ export const Login =(props) => {
           </div>
           <div>
             <h1>Login Page</h1>
+
             
             <div>
               <img src={email} alt="email" className="email" />
